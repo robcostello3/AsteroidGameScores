@@ -1,0 +1,25 @@
+{
+  "name": "highscores",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robcostello3/AsteroidGameScores.git"
+  },
+  "author": "Robert Costello",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robcostello3/AsteroidGameScores/issues"
+  },
+  "homepage": "https://github.com/robcostello3/AsteroidGameScores#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "express-handlebars": "^6.0.2",
+    "mongoose": "^6.1.9"
+  }
+}
